@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	text-transform: uppercase;
+	color: rgba(0,0,0,.5);
+	letter-spacing: .5em;
+	background: linear-gradient(to right, blue, green);
+}
+
+h3 {
+	color: white;
+	text-transform: none;
+}
+
+#random {
+	font-size: 24px;
+	background-color: green;
+	color: white;
+}
